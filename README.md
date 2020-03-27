@@ -4,3 +4,7 @@ dividends and recommendations from sql-database. The search function works with 
 
 Example:
 
+You want to see Orion company's dividend and recommendation.
+
+
+
