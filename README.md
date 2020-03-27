@@ -7,7 +7,7 @@ Example:
 You want to see Orion company's dividend and recommendation.
 
 Type to the "Hae yhtiön nimellä" -input field company name (orion) or type a trading code (ornbv in this case) to the
-"Hae kaupankäyntitunnuksella" -input field.
+"Hae kaupankäyntitunnuksella" -input field. After that click "hae" -button.
 
 
 
