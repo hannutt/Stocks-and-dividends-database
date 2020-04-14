@@ -8,7 +8,7 @@ Example:
 You want to see Orion company's dividend and recommendation.
 
 Type to the "Search by company name" -input field company name (orion) or type a trading code (ornbv in this case) to the
-"Search by trading ID" -input field. After that click "hae" -button.
+"Search by trading ID" -input field. After that click "Search" -button.
 
 
 
