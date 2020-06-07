@@ -2,6 +2,7 @@
 Small and simple PHP application with sql-database. You can use this to search for omxh 25 stock index stock
 dividends and recommendations from application sql-database. The search function works with the company name or trading code.
 
+
 Example:
 
 You want to see Orion company's dividend and recommendation.
