@@ -18,5 +18,5 @@ The program also includes the following buttons:
 Files:
 Osinkotietokanta.php is a main file that contains input fields and function buttons.
 stocks.sql is a sql-file which includes information on stocks, dividends and recommendations.
-
+tietokantayhteys.php is a .Php-file which opens a connection between the main file and the database.
 
