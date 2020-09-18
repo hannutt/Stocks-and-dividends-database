@@ -15,4 +15,8 @@ The program also includes the following buttons:
 - Show lowest dividend -> click to get the lowest dividend and company name
 - Show companies that don't pay dividends -> click to get company names
 
+Files:
+Osinkotietokanta.php is a main file that contains input fields and function buttons.
+stocks.sql is a sql-file which includes information on stocks, dividends and recommendations.
+
 
