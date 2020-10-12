@@ -1,6 +1,7 @@
 # Stocks-and-dividends-database
 Small and simple PHP application with sql-database. You can use this to search for omxh 25 stock index stock
 dividends and recommendations from application sql-database. The search function works with the company name or trading code.
+You can also update the dividend and recommendation information using UpdateTool.php -file.
 
 Example:
 
@@ -17,6 +18,7 @@ The program also includes the following buttons:
 
 Files:
 Osinkotietokanta.php is a main file that contains input fields and function buttons.
+UpdateTool.php file is for updating dividend and recommended information.
 stocks.sql is a sql-file which includes information on stocks, dividends and recommendations.
 tietokantayhteys.php is a .Php-file which opens a connection between the main file and the database.
 
